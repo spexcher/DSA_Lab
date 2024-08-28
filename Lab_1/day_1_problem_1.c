@@ -6,7 +6,6 @@
 // Github: https://github.com/spexcher/
 // linkedin : https://www.linkedin.com/in/gourabmodak/
 // ------------------------------------------------------------------------------------
-*/
 #include <stdio.h>
 int main()
 {
