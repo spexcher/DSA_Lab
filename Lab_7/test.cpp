@@ -1,17 +1,14 @@
 #define MOD 1000000007
 //
 #pragma region r1;
-/*----------------------------------------------------------------
-AUTHOR: spexcher
-Name: Gourab Modak
-email: spexcher@gmail.com
-Institution: Indian Institute of Technology Madras(BS UG Data Science 4 year) + Jalpaiguri Government Engineering College (B. Tech UG CSE 4 year)
-Github: https://github.com/gauravthedeveloper/
-linkedin : https://www.linkedin.com/in/gourabmodak/
-codeforces : https://codeforces.com/profile/spexcher/
-codechef : https://www.codechef.com/users/spexcher/
-leetcode : https://leetcode.com/spexcher/
-*/
+// ------------------------------------------------------------------------------------
+// Author: spexcher
+// Name: Gourab Modak
+// email: spexcher@gmail.com
+// Linktree: https://linktr.ee/spexcher/
+// Github: https://github.com/spexcher/
+// linkedin : https://www.linkedin.com/in/gourabmodak/
+// ------------------------------------------------------------------------------------
 #include <iostream>
 #include <cstdio>
 #include <cstdlib>
