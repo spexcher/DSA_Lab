@@ -1,4 +1,4 @@
-# OOPS Assignment - Jalpaiguri Government Engineering College
+# Data Structures and Algorithms (DSA) Assignment - Jalpaiguri Government Engineering College
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -11,23 +11,23 @@
 - [License](#license)
 
 ## Project Overview
-This repository contains the Object-Oriented Programming System (OOPS) assignment for Jalpaiguri Government Engineering College. The assignment demonstrates the principles of OOP, including encapsulation, inheritance, polymorphism, and abstraction through various classes and methods.
+This repository contains the Data Structures and Algorithms (DSA) assignment for Jalpaiguri Government Engineering College. The assignment covers the implementation of fundamental data structures and algorithms, focusing on efficient time and space complexity.
 
 ## Assignment Details
-- **Subject:** Object-Oriented Programming System
+- **Subject:** Data Structures and Algorithms
 - **Institution:** Jalpaiguri Government Engineering College
 - **Course:** B.Tech in Computer Science and Engineering OR Information Technology
-- **Instructor:** [Dr. Dipak Kumar Kole (DKK)] in my case
+- **Instructor:** Dr. Dipak Kumar Kole (DKK)
 - **Semester:** [Could be any from 3rd to 6th]
 
 ### Objectives
-- To implement the core concepts of Object-Oriented Programming.
-- To design and develop classes and objects that demonstrate OOP principles.
-- To create a working program that solves a specific problem using OOP techniques.
+- To implement and analyze various data structures such as arrays, linked lists, stacks, queues, trees, and graphs.
+- To design and implement algorithms for sorting, searching, and other fundamental operations.
+- To compare the time and space complexity of different algorithms.
 
 ## Technologies Used
-- **Programming Language:** [Programming Language Used: C++, Java]
-- **IDE:** [VS Code]
+- **Programming Language:** C++, C
+- **IDE:** Visual Studio Code (VS Code)
 
 ## How to Run the Code
 1. Clone this repository to your local machine:
@@ -36,7 +36,7 @@ This repository contains the Object-Oriented Programming System (OOPS) assignmen
     ```
 2. Navigate to the project directory:
     ```bash
-    cd OOPS_Lab
+    cd DSA_Lab
     ```
 3. Open the project in your preferred IDE.
 
@@ -46,22 +46,34 @@ This repository contains the Object-Oriented Programming System (OOPS) assignmen
       g++ -o output main.cpp
       ./output
       ```
-    - For **Java**:
+    - For **C**:
       ```bash
-      javac Main.java
-      java Main
+      gcc -o output main.c
+      ./output
       ```
 
-*Include a brief description of the class diagram or attach the image if you have one.*
+## Data Structures Implemented
+- **Arrays:** Implementation of dynamic arrays and operations like insertion, deletion, and traversal.
+- **Linked Lists:** Singly linked list, doubly linked list, and circular linked list with various operations.
+- **Stacks:** Implementation using arrays and linked lists, with push, pop, and peek operations.
+- **Queues:** Implementation of simple queues and circular queues.
+- **Trees:** Binary search tree, AVL tree, and operations like insertion, deletion, and traversal.
+- **Graphs:** Representation using adjacency matrix and adjacency list, along with BFS and DFS algorithms.
 
-## Features
-- **Encapsulation:** Demonstrated by [Class Name].
-- **Inheritance:** Implemented in [Class Name].
-- **Polymorphism:** Achieved through [Class Name].
-- **Abstraction:** Represented by [Class Name].
+## Algorithms
+- **Sorting Algorithms:**
+  - Bubble Sort
+  - Merge Sort
+  - Quick Sort
+- **Searching Algorithms:**
+  - Linear Search
+  - Binary Search
+- **Other Algorithms:**
+  - Dijkstra's Algorithm for shortest path
+  - Kruskal's and Prim's Algorithm for minimum spanning tree
 
 ## Contributors
-- [Gourab Modak](https://github.com/spexcher) - [Creator]
+- [Gourab Modak](https://github.com/spexcher) - Creator
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
