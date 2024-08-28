@@ -1,0 +1,81 @@
+Enter the number of elements in the array: Enter 10 elements:
+
+Original array:
+Array elements: 10 9 8 7 6 5 4 3 2 1 
+
+What is the sorting procedure you would like to use:
+
+1 Selection Sort
+2 Bubble Sort
+3 Modified Bubble Sort
+4 Insertion Sort
+5 Merge Sort
+
+Array after Selection Sort:
+time = 0.00002
+Array elements: 1 2 3 4 5 6 7 8 9 10 
+Enter the number of elements in the array: Enter 5 elements:
+
+Original array:
+Array elements: 5 4 3 2 1 
+
+What is the sorting procedure you would like to use:
+
+1 Selection Sort
+2 Bubble Sort
+3 Modified Bubble Sort
+4 Insertion Sort
+5 Merge Sort
+
+Array after Selection Sort:
+time = 0.00002
+Array elements: 1 2 3 4 5 
+Enter the number of elements in the array: Enter 6 elements:
+
+Original array:
+Array elements: 6 5 4 3 2 1 
+
+What is the sorting procedure you would like to use:
+
+1 Selection Sort
+2 Bubble Sort
+3 Modified Bubble Sort
+4 Insertion Sort
+5 Merge Sort
+time = 0.00001
+
+Array after Merge Sort:
+time = 0.00008
+Array elements: 1 2 3 4 5 6 
+Enter the number of elements in the array: Enter 7 elements:
+
+Original array:
+Array elements: 7 6 5 4 3 2 1 
+
+What is the sorting procedure you would like to use:
+
+1 Selection Sort
+2 Bubble Sort
+3 Modified Bubble Sort
+4 Insertion Sort
+5 Merge Sort
+
+Array after Merge Sort:
+time = 0.00002
+Array elements: 1 2 3 4 5 6 7 
+Enter the number of elements in the array: Enter 5 elements:
+
+Original array:
+Array elements: 5 4 3 2 1 
+
+What is the sorting procedure you would like to use:
+
+1 Selection Sort
+2 Bubble Sort
+3 Modified Bubble Sort
+4 Insertion Sort
+5 Merge Sort
+Pass: 0Pass: 1Pass: 2Pass: 3
+Array after Bubble Sort:
+time = 0.00003
+Array elements: 1 2 3 4 5 
